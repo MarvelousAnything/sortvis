@@ -1,0 +1,25 @@
+{
+  "name": "sortvis",
+  "version": "1.0.0",
+  "description": "Visualizes sorting algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thearchermancoding/sortvis.git"
+  },
+  "keywords": [
+    "Quicksort",
+    "Bubblesort",
+    "Binary-search",
+    "merge-sort"
+  ],
+  "author": "Owen Hayes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thearchermancoding/sortvis/issues"
+  },
+  "homepage": "https://github.com/Thearchermancoding/sortvis#readme"
+}
